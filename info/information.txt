@@ -1,0 +1,16 @@
+nickname: Kiet2007318
+fullname: Nguyễn Tuấn Kiệt 
+phone: Dang Cập nhât
+zalo: 0772766934
+youtube: Đang Cặp Nhật
+github: https://github.com/Kiet2007318
+facebook: Đang Cập Nhật
+messenger: Đang Cập Nhật
+instagram: Unknown
+momo: 0812993202
+atm: Unknown
+atm_type: Unknown
+relationship:
+address: Unknown
+region: Vietnamese
+born: 

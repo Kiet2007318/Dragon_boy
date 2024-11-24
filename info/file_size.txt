@@ -1,0 +1,16 @@
+recaf: 590
+recafInstalled: 1685
+mongodb: 125
+mongodbInstalled: 1024
+netbeans: 610
+netbeansInstalled: 2200
+image: 370
+imageInstalled: 550
+online: 50
+onlineInstalled: 150
+ssh: 50
+sshInstalled: 150
+web: 50
+webInstalled: 150
+php: 0
+phpInstalled: 0
